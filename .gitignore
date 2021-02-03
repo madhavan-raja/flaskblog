@@ -1,3 +1,5 @@
 env/
 __pycache__/
 *.pyc
+flaskblog/static/profile_pics/*
+!flaskblog/static/profile_pics/default.jpg
