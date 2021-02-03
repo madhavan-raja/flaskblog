@@ -1,2 +1,2 @@
 # flaskblog
-Yes, this is from the Corey Schafer tutorials!
+Yes, this is from the Corey Schafer tutorials
